@@ -1,0 +1,12 @@
+C:\Users\wiz\workspace\toDo\bin\Debug\netcoreapp2.0\app.db
+C:\Users\wiz\workspace\toDo\bin\Debug\netcoreapp2.0\toDo.deps.json
+C:\Users\wiz\workspace\toDo\bin\Debug\netcoreapp2.0\toDo.runtimeconfig.json
+C:\Users\wiz\workspace\toDo\bin\Debug\netcoreapp2.0\toDo.runtimeconfig.dev.json
+C:\Users\wiz\workspace\toDo\bin\Debug\netcoreapp2.0\toDo.dll
+C:\Users\wiz\workspace\toDo\bin\Debug\netcoreapp2.0\toDo.pdb
+C:\Users\wiz\workspace\toDo\obj\Debug\netcoreapp2.0\toDo.csproj.CoreCompileInputs.cache
+C:\Users\wiz\workspace\toDo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\wiz\workspace\toDo\obj\Debug\netcoreapp2.0\toDo.AssemblyInfoInputs.cache
+C:\Users\wiz\workspace\toDo\obj\Debug\netcoreapp2.0\toDo.AssemblyInfo.cs
+C:\Users\wiz\workspace\toDo\obj\Debug\netcoreapp2.0\toDo.dll
+C:\Users\wiz\workspace\toDo\obj\Debug\netcoreapp2.0\toDo.pdb
